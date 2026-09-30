@@ -1,4 +1,4 @@
-```markdown
+
 # 📸 🖥️ OTSU THRESHOLDING HW/SW CO-DESIGN ON ZYNQ FPGA 🖥️ 📸
 
 ## 📖 OVERVIEW
@@ -13,7 +13,6 @@ Otsu’s method automatically determines an optimum threshold to convert an 8-bi
 
 **The secret sauce:** The design uses the FPGA for highly parallel, streaming operations, while the ARM processor handles the control-oriented, division-heavy math.
 
-```
 
 ---
 
